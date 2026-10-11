@@ -1,4 +1,8 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "6"
+# ///
 # DBTITLE 1,3. Limpeza e Preparação dos Dados
 # MAGIC %md
 # MAGIC # 3. Limpeza e Preparação dos Dados
